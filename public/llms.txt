@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://lumi-f68efc80.zappy5.app
+https://example.com
 מותג תכשיטי יוקרה בעבודת יד המשלב אומנות מסורתית עם עיצובים ייחודיים. מצא את התכשיט המושלם שמספר את הסיפור שלך. בקר באתר עכשיו וגלה את הקסם!
 
 ### אומנות
-https://lumi-f68efc80.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 היכנס אל מאחורי הקלעים של LUMIÈ וגלה את טכניקות הצורפות המסורתיות והתשוקה שמאחורי כל תכשיט. אומנות אמיתית שעוברת מדור לדור. התאהב בתהליך!
 
 ### אודות
-https://lumi-f68efc80.zappy5.app/about
+https://example.com/about
 הסיפור של LUMIÈ מתחיל באהבה עמוקה לאומנות וליופי. גלו את החזון, הערכים והתשוקה שמאחורי כל תכשיט בעבודת יד. הצטרפו למסע האישי שלנו!
 
 ### צור קשר
-https://lumi-f68efc80.zappy5.app/contact
+https://example.com/contact
 יש לך רעיון לתכשיט מיוחד או שאלה על הקולקציה? צרי קשר עם LUMIÈ עוד היום ונשמח להפוך את החלום שלך למציאות. המומחים שלנו מחכים לך!
 
 ### Products
-https://lumi-f68efc80.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - LUMIÈ
 
 ### Cart
-https://lumi-f68efc80.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://lumi-f68efc80.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://lumi-f68efc80.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://lumi-f68efc80.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://lumi-f68efc80.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://lumi-f68efc80.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - LUMIÈ
 
 ### Category
-https://lumi-f68efc80.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - LUMIÈ
 
 ### תודה שפניתם אלינו | LUMIÈ
-https://lumi-f68efc80.zappy5.app/thank-you
+https://example.com/thank-you
 LUMIÈ - תודה שפניתם אלינו | LUMIÈ
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://lumi-f68efc80.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://lumi-f68efc80.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://lumi-f68efc80.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Handmade Jewelry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://lumi-f68efc80.zappy5.app/sitemap.xml
-- Robots: https://lumi-f68efc80.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://lumi-f68efc80.zappy5.app/llms-full.txt
-- Products (JSON): https://lumi-f68efc80.zappy5.app/products.json
-- Products (Google Merchant RSS): https://lumi-f68efc80.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
