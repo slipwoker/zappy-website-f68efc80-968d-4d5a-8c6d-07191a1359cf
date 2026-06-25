@@ -1,0 +1,107 @@
+# LUMIÈ — Generative Engine Optimization Map
+
+> A handmade jewelry brand focused on artisan craftsmanship, offering unique, hand-crafted pieces. The brand likely carries a personal, creative, and authentic identity that emphasizes the skill and passion behind each piece.
+
+---
+
+## Pages
+
+### בית
+https://lumi-f68efc80.zappy5.app
+מותג תכשיטי יוקרה בעבודת יד המשלב אומנות מסורתית עם עיצובים ייחודיים. מצא את התכשיט המושלם שמספר את הסיפור שלך. בקר באתר עכשיו וגלה את הקסם!
+
+### אומנות
+https://lumi-f68efc80.zappy5.app/craftsmanship
+היכנס אל מאחורי הקלעים של LUMIÈ וגלה את טכניקות הצורפות המסורתיות והתשוקה שמאחורי כל תכשיט. אומנות אמיתית שעוברת מדור לדור. התאהב בתהליך!
+
+### אודות
+https://lumi-f68efc80.zappy5.app/about
+הסיפור של LUMIÈ מתחיל באהבה עמוקה לאומנות וליופי. גלו את החזון, הערכים והתשוקה שמאחורי כל תכשיט בעבודת יד. הצטרפו למסע האישי שלנו!
+
+### צור קשר
+https://lumi-f68efc80.zappy5.app/contact
+יש לך רעיון לתכשיט מיוחד או שאלה על הקולקציה? צרי קשר עם LUMIÈ עוד היום ונשמח להפוך את החלום שלך למציאות. המומחים שלנו מחכים לך!
+
+### Products
+https://lumi-f68efc80.zappy5.app/products
+המוצרים שלנו - LUMIÈ
+
+### Cart
+https://lumi-f68efc80.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://lumi-f68efc80.zappy5.app/checkout
+תשלום
+
+### Login
+https://lumi-f68efc80.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://lumi-f68efc80.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://lumi-f68efc80.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://lumi-f68efc80.zappy5.app/product/:slug
+פרטי המוצר - LUMIÈ
+
+### Category
+https://lumi-f68efc80.zappy5.app/category/:slug
+מוצרים - LUMIÈ
+
+### תודה שפניתם אלינו | LUMIÈ
+https://lumi-f68efc80.zappy5.app/thank-you
+LUMIÈ - תודה שפניתם אלינו | LUMIÈ
+
+## Legal & Policy
+
+### Privacy Policy
+https://lumi-f68efc80.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://lumi-f68efc80.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://lumi-f68efc80.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LUMIÈ
+A handmade jewelry brand focused on artisan craftsmanship, offering unique, hand-crafted pieces. The brand likely carries a personal, creative, and authentic identity that emphasizes the skill and passion behind each piece.
+
+## Services/Products
+- תכשיטים עבודת יד
+
+## Target Audience
+- חובבות אופנה אומנותיות
+- מחפשי מתנות מיוחדות
+- צרכנים מודעים לסביבה
+
+## Industry
+Handmade Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://lumi-f68efc80.zappy5.app/sitemap.xml
+- Robots: https://lumi-f68efc80.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://lumi-f68efc80.zappy5.app/llms-full.txt
+- Products (JSON): https://lumi-f68efc80.zappy5.app/products.json
+- Products (Google Merchant RSS): https://lumi-f68efc80.zappy5.app/product-feed.xml
